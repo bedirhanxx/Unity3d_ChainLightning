@@ -1,4 +1,4 @@
-# Unity3d ChainL ightning
+# Unity3d Chain Lightning
 
 * Lightning Effect
 * Using dot tween and line renderer.
